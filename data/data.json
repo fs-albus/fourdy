@@ -3,892 +3,1426 @@
     {
       "name": "Book Of Fallen",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10bookfallen&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bookfallen.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bookfallen.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bookfallen.png"
+      ]
     },
     {
       "name": "Santa\\'s Wonderland",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20santawonder&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santawonder.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santawonder.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santawonder.png"
+      ]
     },
     {
       "name": "Big Juan",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40bigjuan&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40bigjuan.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40bigjuan.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40bigjuan.png"
+      ]
     },
     {
       "name": "John Hunter And The Quest For Bermuda Riches",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20bermuda&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20bermuda.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20bermuda.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20bermuda.png"
+      ]
     },
     {
       "name": "Star Pirates Code",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10starpirate&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10starpirate.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10starpirate.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10starpirate.png"
+      ]
     },
     {
       "name": "Day Of Dead",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20daydead&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20daydead.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20daydead.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20daydead.png"
+      ]
     },
     {
       "name": "Cash Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysbankbonz&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbankbonz.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbankbonz.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbankbonz.png"
+      ]
     },
     {
       "name": "Mystic Chief",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayswest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswest.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswest.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswest.png"
+      ]
     },
     {
       "name": "Piggy Bank Bills",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs9piggybank&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9piggybank.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9piggybank.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9piggybank.png"
+      ]
     },
     {
       "name": "Treasure Wild",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20trsbox&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20trsbox.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20trsbox.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20trsbox.png"
+      ]
     },
     {
       "name": "Starlight Princess",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20starlight&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20starlight.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20starlight.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20starlight.png"
+      ]
     },
     {
       "name": "Bigger Bass Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs12bbb&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs12bbb.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs12bbb.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs12bbb.png"
+      ]
     },
     {
       "name": "Yum Yum Powerways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysyumyum&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysyumyum.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysyumyum.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysyumyum.png"
+      ]
     },
     {
       "name": "Chilli Heat Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayschilheat&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayschilheat.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayschilheat.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayschilheat.png"
+      ]
     },
     {
       "name": "Rise Of Giza Powernudge",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10nudgeit&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10nudgeit.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10nudgeit.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10nudgeit.png"
+      ]
     },
     {
       "name": "Fruit Party 2",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20fparty2&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fparty2.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fparty2.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fparty2.png"
+      ]
     },
     {
       "name": "Chicken Drop",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20chickdrop&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chickdrop.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chickdrop.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chickdrop.png"
+      ]
     },
     {
       "name": "Lucky Grace And Charm",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10luckcharm&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com.",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10luckcharm.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10luckcharm.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10luckcharm.png"
+      ]
     },
     {
       "name": "Empty The Bank!",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20emptybank&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20emptybank.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20emptybank.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20emptybank.png"
+      ]
     },
     {
       "name": "5 Lions Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayslions&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslions.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslions.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslions.png"
+      ]
     },
     {
       "name": "Lucky Lightning",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayslight&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslight.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslight.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayslight.png"
+      ]
     },
     {
       "name": "Dragon Hot Hold And Spin",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5drhs&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drhs.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drhs.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drhs.png"
+      ]
     },
     {
       "name": "Heart Of Rio",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25rio&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25rio.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25rio.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25rio.png"
+      ]
     },
     {
       "name": "Panda Fortune 2",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25pandatemple&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandatemple.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandatemple.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandatemple.png"
+      ]
     },
     {
       "name": "The Magic Cauldron Enchanted Brew",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20magicpot&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20magicpot.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20magicpot.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20magicpot.png"
+      ]
     },
     {
       "name": "Cash Elevator",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20terrorv&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20terrorv.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20terrorv.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20terrorv.png"
+      ]
     },
     {
       "name": "Phoenix Forge",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20phoenixf&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20phoenixf.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20phoenixf.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20phoenixf.png"
+      ]
     },
     {
       "name": "Amazing Money Machine",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10amm&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10amm.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10amm.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10amm.png"
+      ]
     },
     {
       "name": "Buffalo King Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysbufking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbufking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbufking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysbufking.png"
+      ]
     },
     {
       "name": "Hot Fiesta",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25hotfiesta&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25hotfiesta.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25hotfiesta.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25hotfiesta.png"
+      ]
     },
     {
       "name": "Floating Dragon",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10floatdrg&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10floatdrg.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10floatdrg.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10floatdrg.png"
+      ]
     },
     {
       "name": "Wild Booster",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20wildboost&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildboost.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildboost.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildboost.png"
+      ]
     },
     {
       "name": "Power Of Thor Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayshammthor&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshammthor.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshammthor.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshammthor.png"
+      ]
     },
     {
       "name": "Juicy Fruits",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50juicyfr&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50juicyfr.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50juicyfr.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50juicyfr.png"
+      ]
     },
     {
       "name": "Temujin Treasures",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1024temuj&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024temuj.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024temuj.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024temuj.png"
+      ]
     },
     {
       "name": "Fishin Reels",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10goldfish&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10goldfish.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10goldfish.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10goldfish.png"
+      ]
     },
     {
       "name": "Hot To Burn Hold And Spin",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20hburnhs&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hburnhs.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hburnhs.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hburnhs.png"
+      ]
     },
     {
       "name": "Gates Of Olympus",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20olympgate&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20olympgate.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20olympgate.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20olympgate.png"
+      ]
     },
     {
       "name": "Joker King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25jokerking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25jokerking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25jokerking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25jokerking.png"
+      ]
     },
     {
       "name": "The Hand Of Midas",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20midas&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20midas.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20midas.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20midas.png"
+      ]
     },
     {
       "name": "Eye Of The Storm",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10eyestorm&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10eyestorm.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10eyestorm.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10eyestorm.png"
+      ]
     },
     {
       "name": "Dragon Kingdom Eyes Of Fire",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5drmystery&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drmystery.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drmystery.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5drmystery.png"
+      ]
     },
     {
       "name": "Madame Destiny Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysmadame&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysmadame.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysmadame.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysmadame.png"
+      ]
     },
     {
       "name": "Congo Cash",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs432congocash&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs432congocash.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs432congocash.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs432congocash.png"
+      ]
     },
     {
       "name": "Emerald King Rainbow Road",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20ekingrr&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20ekingrr.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20ekingrr.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20ekingrr.png"
+      ]
     },
     {
       "name": "Mysterious Egypt",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10wildtut&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10wildtut.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10wildtut.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10wildtut.png"
+      ]
     },
     {
       "name": "Voodoo Magic",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40voodoo&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40voodoo.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40voodoo.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40voodoo.png"
+      ]
     },
     {
       "name": "Big Bass Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10bbbonanza&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bbbonanza.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bbbonanza.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10bbbonanza.png"
+      ]
     },
     {
       "name": "John Hunter And The Mayan Gods",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10mayangods&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10mayangods (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10mayangods (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10mayangods (1).png"
+      ]
     },
     {
       "name": "Spartan King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40spartaking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40spartaking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40spartaking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40spartaking.png"
+      ]
     },
     {
       "name": "Christmas Carol Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20xmascarol&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20xmascarol.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20xmascarol.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20xmascarol.png"
+      ]
     },
     {
       "name": "Cowboys Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10cowgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10cowgold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10cowgold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10cowgold.png"
+      ]
     },
     {
       "name": "Book Of Kingdoms",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25bkofkngdm&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25bkofkngdm.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25bkofkngdm.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25bkofkngdm.png"
+      ]
     },
     {
       "name": "Pirate Gold Deluxe",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40pirgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirgold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirgold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirgold.png"
+      ]
     },
     {
       "name": "Dragon Tiger",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1024dtiger&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024dtiger.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024dtiger.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024dtiger.png"
+      ]
     },
     {
       "name": "Gems Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20goldfever&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20goldfever.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20goldfever.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20goldfever.png"
+      ]
     },
     {
       "name": "Return Of The Dead",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10returndead&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10returndead.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10returndead.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10returndead.png"
+      ]
     },
     {
       "name": "5 Lions Dance",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1024lionsd&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024lionsd.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024lionsd.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024lionsd.png"
+      ]
     },
     {
       "name": "Emerald King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20eking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eking.png"
+      ]
     },
     {
       "name": "Wild Walker",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25walker&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25walker.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25walker.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25walker.png"
+      ]
     },
     {
       "name": "Wild Wild Riches",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs576treasures&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com.",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs576treasures.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs576treasures.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs576treasures.png"
+      ]
     },
     {
       "name": "Star Bounty",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayshive&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshive.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshive.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayshive.png"
+      ]
     },
     {
       "name": "Ultra Hold And Spin",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5ultra&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultra.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultra.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultra.png"
+      ]
     },
     {
       "name": "Curse Of The Werewolf Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswayswerewolf&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswerewolf.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswerewolf.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswayswerewolf.png"
+      ]
     },
     {
       "name": "Jungle Gorilla",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20gorilla&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20gorilla.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20gorilla.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20gorilla.png"
+      ]
     },
     {
       "name": "The Dog House Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysdogs&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysdogs.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysdogs.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysdogs.png"
+      ]
     },
     {
       "name": "Aztec Gems Deluxe",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs9aztecgemsdx&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9aztecgemsdx.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9aztecgemsdx.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9aztecgemsdx.png"
+      ]
     },
     {
       "name": "Great Rhino Deluxe",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20rhinoluxe&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhinoluxe.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhinoluxe.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhinoluxe.png"
+      ]
     },
     {
       "name": "Street Racer",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40streetracer&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40streetracer.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40streetracer.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40streetracer.png"
+      ]
     },
     {
       "name": "Drago Jewels Of Fortune",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1600drago&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1600drago.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1600drago.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1600drago.png"
+      ]
     },
     {
       "name": "Pyramid King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25pyramid&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pyramid.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pyramid.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pyramid.png"
+      ]
     },
     {
       "name": "Three Star Fortune",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10threestar&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10threestar.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10threestar.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10threestar.png"
+      ]
     },
     {
       "name": "Starz Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs117649starz&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs117649starz.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs117649starz.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs117649starz.png"
+      ]
     },
     {
       "name": "Ultra Burn",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5ultrab&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultrab.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultrab.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5ultrab.png"
+      ]
     },
     {
       "name": "Fruit Party",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20fruitparty&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitparty.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitparty.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitparty.png"
+      ]
     },
     {
       "name": "Hot To Burn",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5hotburn&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5hotburn.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5hotburn.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5hotburn.png"
+      ]
     },
     {
       "name": "Great Rhino Megaways",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vswaysrhino&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysrhino.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysrhino.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vswaysrhino.png"
+      ]
     },
     {
       "name": "Bronco Spirit",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs75bronco&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75bronco.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75bronco.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75bronco.png"
+      ]
     },
     {
       "name": "Fruit Rainbow",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40frrainbow&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40frrainbow.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40frrainbow.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40frrainbow.png"
+      ]
     },
     {
       "name": "Wild West Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40wildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40wildwest.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40wildwest.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40wildwest.png"
+      ]
     },
     {
       "name": "Dance Party",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243dancingpar&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243dancingpar.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243dancingpar.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243dancingpar.png"
+      ]
     },
     {
       "name": "The Wild Machine",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40madwheel&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40madwheel.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40madwheel.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40madwheel.png"
+      ]
     },
     {
       "name": "Aztec Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs7776aztec&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776aztec.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776aztec.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776aztec.png"
+      ]
     },
     {
       "name": "Golden Beauty",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs75empress&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75empress.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75empress.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs75empress.png"
+      ]
     },
     {
       "name": "Mysterious",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs4096mystery&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096mystery.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096mystery.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096mystery.png"
+      ]
     },
     {
       "name": "Master Joker",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1masterjoker&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1masterjoker.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1masterjoker.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1masterjoker.png"
+      ]
     },
     {
       "name": "Super 7s",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5super7&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5super7.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5super7.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5super7.png"
+      ]
     },
     {
       "name": "Release The Kraken",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20kraken&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20kraken.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20kraken.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20kraken.png"
+      ]
     },
     {
       "name": "Money Mouse",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25mmouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mmouse.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mmouse.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mmouse.png"
+      ]
     },
     {
       "name": "Magic Journey",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs8magicjourn&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs8magicjourn.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs8magicjourn.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs8magicjourn.png"
+      ]
     },
     {
       "name": "Buffalo King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs4096bufking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096bufking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096bufking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096bufking.png"
+      ]
     },
     {
       "name": "Greek Gods",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243fortseren&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243fortseren.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243fortseren.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243fortseren.png"
+      ]
     },
     {
       "name": "Sweet Bonanza Xmas",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20sbxmas&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20sbxmas.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20sbxmas.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20sbxmas.png"
+      ]
     },
     {
       "name": "Hercules And Pegasus",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20hercpeg&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hercpeg.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hercpeg.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20hercpeg.png"
+      ]
     },
     {
       "name": "Aladdin And The Sorcerer",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20aladdinsorc&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20aladdinsorc.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20aladdinsorc.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20aladdinsorc.png"
+      ]
     },
     {
       "name": "Honey Honey Honey",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20honey&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20honey.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20honey.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20honey.png"
+      ]
     },
     {
       "name": "Fire Strike",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10firestrike&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10firestrike.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10firestrike.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10firestrike.png"
+      ]
     },
     {
       "name": "Tree Of Riches",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1fortunetree&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1fortunetree.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1fortunetree.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1fortunetree.png"
+      ]
     },
     {
       "name": "Super Joker",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5spjoker&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5spjoker.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5spjoker.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5spjoker.png"
+      ]
     },
     {
       "name": "The Great Chicken Escape",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20chicken&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chicken.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chicken.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20chicken.png"
+      ]
     },
     {
       "name": "Vampires Vs Wolves",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10vampwolf&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10vampwolf.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10vampwolf.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10vampwolf.png"
+      ]
     },
     {
       "name": "Hot Chilli",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs9hotroll&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9hotroll.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9hotroll.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9hotroll.png"
+      ]
     },
     {
       "name": "John Hunter Aztec Treasure",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs7776secrets&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776secrets.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776secrets.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7776secrets.png"
+      ]
     },
     {
       "name": "Monkey Warrior",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243mwarrior&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243mwarrior.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243mwarrior.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243mwarrior.png"
+      ]
     },
     {
       "name": "Sweet Bonanza",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20fruitsw&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitsw.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitsw.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20fruitsw.png"
+      ]
     },
     {
       "name": "5 Lions Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243lionsgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lionsgold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lionsgold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lionsgold.png"
+      ]
     },
     {
       "name": "Triple Jokers",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5trjokers&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trjokers.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trjokers.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trjokers.png"
+      ]
     },
     {
       "name": "Pirate Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40pirate&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirate.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirate.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40pirate.png"
+      ]
     },
     {
       "name": "Caishen Cash",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243caishien&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien (1).png"
+      ]
     },
     {
       "name": "The Dog House",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20doghouse (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20doghouse (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20doghouse (1).png"
+      ]
     },
     {
       "name": "Egyptian Fortunes",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20egypttrs&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypttrs.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypttrs.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypttrs.png"
+      ]
     },
     {
       "name": "Wild Pixie",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20wildpix&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildpix.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildpix.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20wildpix.png"
+      ]
     },
     {
       "name": "Extra Juicy",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10fruity2&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10fruity2.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10fruity2.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10fruity2.png"
+      ]
     },
     {
       "name": "Safari King",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50safariking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50safariking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50safariking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50safariking.png"
+      ]
     },
     {
       "name": "Treasure Horse",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs18mashang&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs18mashang.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs18mashang.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs18mashang.png"
+      ]
     },
     {
       "name": "Mustang Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25mustang&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mustang.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mustang.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25mustang.png"
+      ]
     },
     {
       "name": "Leprechaun Carol",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20leprexmas&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprexmas.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprexmas.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprexmas.png"
+      ]
     },
     {
       "name": "Triple Dragons",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5trdragons&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trdragons.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trdragons.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5trdragons.png"
+      ]
     },
     {
       "name": "Aztec Gems",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5aztecgems&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5aztecgems.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5aztecgems.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5aztecgems.png"
+      ]
     },
     {
       "name": "Ancient Egypt Classic",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10egyptcls&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egyptcls.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egyptcls.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egyptcls.png"
+      ]
     },
     {
       "name": "Vegas Magic",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20vegasmagic&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20vegasmagic.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20vegasmagic.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20vegasmagic.png"
+      ]
     },
     {
       "name": "Master Chen Fortune",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs9chen&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9chen.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9chen.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9chen.png"
+      ]
     },
     {
       "name": "Da Vinci Treasure",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25davinci&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25davinci.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25davinci.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25davinci.png"
+      ]
     },
     {
       "name": "Leprechaun Song",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20leprechaun&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprechaun.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprechaun.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20leprechaun.png"
+      ]
     },
     {
       "name": "Peking Luck",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25peking&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25peking.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25peking.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25peking.png"
+      ]
     },
     {
       "name": "Jade Butterfly",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1024butterfly&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024butterfly.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024butterfly.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024butterfly.png"
+      ]
     },
     {
       "name": "Madame Destiny",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10madame&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10madame (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10madame (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10madame (1).png"
+      ]
     },
     {
       "name": "Asgard",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25asgard&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25asgard.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25asgard.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25asgard.png"
+      ]
     },
     {
       "name": "The Champions",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25champ&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25champ.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25champ.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25champ.png"
+      ]
     },
     {
       "name": "5 Lions",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243lions&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lions.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lions.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243lions.png"
+      ]
     },
     {
       "name": "Great Rhino",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20rhino&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhino.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhino.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rhino.png"
+      ]
     },
     {
       "name": "Joker Jewels",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs5joker&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5joker (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5joker (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs5joker (1).png"
+      ]
     },
     {
       "name": "Fire 88",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs7fire88&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7fire88.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7fire88.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7fire88.png"
+      ]
     },
     {
       "name": "Fairytale Fortune",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs15fairytale&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15fairytale.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15fairytale.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15fairytale.png"
+      ]
     },
     {
       "name": "Ancient Egypt",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs10egypt&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egypt.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egypt.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs10egypt.png"
+      ]
     },
     {
       "name": "Lucky New Year",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25newyear&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25newyear.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25newyear.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25newyear.png"
+      ]
     },
     {
       "name": "Chilli Heat",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25chilli&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25chilli.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25chilli.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25chilli.png"
+      ]
     },
     {
       "name": "Gold Rush",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25goldrush&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25goldrush.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25goldrush.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25goldrush.png"
+      ]
     },
     {
       "name": "Monkey Madness",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs9madmonkey&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9madmonkey.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9madmonkey.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs9madmonkey.png"
+      ]
     },
     {
       "name": "Triple Tigers",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1tigers&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1tigers (2).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1tigers (2).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1tigers (2).png"
+      ]
     },
     {
       "name": "Santa",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20santa&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santa.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santa.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20santa.png"
+      ]
     },
     {
       "name": "Panda Fortune",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25pandagold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandagold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandagold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pandagold.png"
+      ]
     },
     {
       "name": "7 Piggies",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs7pigs&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7pigs.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7pigs.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7pigs.png"
+      ]
     },
     {
       "name": "Diamond Strike",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs15diamond&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15diamond.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15diamond.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs15diamond.png"
+      ]
     },
     {
       "name": "Vegas Nights",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25vegas&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25vegas.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25vegas.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25vegas.png"
+      ]
     },
     {
       "name": "Wild Spells",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25wildspells&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wildspells.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wildspells.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wildspells.png"
+      ]
     },
     {
       "name": "Caishen Cash",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243fortune&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243caishien.png"
+      ]
     },
     {
       "name": "Pixie Wings",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50pixie&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50pixie.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50pixie.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50pixie.png"
+      ]
     },
     {
       "name": "Jurassic Giants",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs4096jurassic&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096jurassic.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096jurassic.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs4096jurassic.png"
+      ]
     },
     {
       "name": "Wolf Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25wolfgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wolfgold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wolfgold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25wolfgold.png"
+      ]
     },
     {
       "name": "888 Dragons",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1dragon8&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1dragon8 (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1dragon8 (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1dragon8 (1).png"
+      ]
     },
     {
       "name": "8 Dragons",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20eightdragons&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eightdragons.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eightdragons.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20eightdragons.png"
+      ]
     },
     {
       "name": "Gold Train",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs3train&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs3train.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs3train.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs3train.png"
+      ]
     },
     {
       "name": "3 Kingdoms - Battle Of Red Cliffs",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25kingdoms&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25kingdoms.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25kingdoms.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25kingdoms.png"
+      ]
     },
     {
       "name": "Queen Of Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25queenofgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25queenofgold.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25queenofgold.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25queenofgold.png"
+      ]
     },
     {
       "name": "Hot Safari",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25safari&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25safari (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25safari (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25safari (1).png"
+      ]
     },
     {
       "name": "Panther Queen",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25pantherqueen&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pantherqueen.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pantherqueen.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25pantherqueen.png"
+      ]
     },
     {
       "name": "Queen Of Atlantis",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs1024atlantis&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024atlantis (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024atlantis (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs1024atlantis (1).png"
+      ]
     },
     {
       "name": "Irish Charms",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=cs3irishcharms&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3irishcharms (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3irishcharms (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3irishcharms (1).png"
+      ]
     },
     {
       "name": "888 Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=cs5triple8gold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs5triple8gold (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs5triple8gold (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs5triple8gold (1).png"
+      ]
     },
     {
       "name": "Hercules Son Of Zeus",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50hercules&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50hercules (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50hercules (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50hercules (1).png"
+      ]
     },
     {
       "name": "Dragon Kingdom",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25dragonkingdom&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dragonkingdom.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dragonkingdom.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dragonkingdom.png"
+      ]
     },
     {
       "name": "3 Genie Wishes",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50aladdin&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50aladdin.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50aladdin.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50aladdin.png"
+      ]
     },
     {
       "name": "Journey To The West",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25journey&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25journey.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25journey.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25journey.png"
+      ]
     },
     {
       "name": "Beowulf",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs40beowulf&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40beowulf (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40beowulf (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs40beowulf (1).png"
+      ]
     },
     {
       "name": "Lucky Dragons",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50chinesecharms&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50chinesecharms (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50chinesecharms (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50chinesecharms (1).png"
+      ]
     },
     {
       "name": "Diamonds Are Forever 3 Lines",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=cs3w&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3w.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3w.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/cs3w.png"
+      ]
     },
     {
       "name": "Dwarven Gold Deluxe",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25dwarves_new&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves_new (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves_new (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves_new (1).png"
+      ]
     },
     {
       "name": "7 Monkeys",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs7monkeys&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7monkeys.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7monkeys.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs7monkeys.png"
+      ]
     },
     {
       "name": "Mighty Kong",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs50kingkong&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50kingkong (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50kingkong (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs50kingkong (1).png"
+      ]
     },
     {
       "name": "Lady Godiva",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20godiva&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20godiva (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20godiva (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20godiva (1).png"
+      ]
     },
     {
       "name": "Magic Crystals",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs243crystalcave&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243crystalcave (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243crystalcave (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs243crystalcave (1).png"
+      ]
     },
     {
       "name": "Lady Of The Moon",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs13ladyofmoon&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs13ladyofmoon (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs13ladyofmoon (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs13ladyofmoon (1).png"
+      ]
     },
     {
       "name": "Sugar Rush",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20cm&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20cm (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20cm (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20cm (1).png"
+      ]
     },
     {
       "name": "Dwarven Gold",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25dwarves&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves.png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves.png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25dwarves.png"
+      ]
     },
     {
       "name": "Glorious Rome",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20rome&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rome (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rome (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20rome (1).png"
+      ]
     },
     {
       "name": "Great Reef",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs25sea&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25sea (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25sea (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs25sea (1).png"
+      ]
     },
     {
       "name": "Tales Of Egypt",
       "demo": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&gameSymbol=vs20egypt&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypt (1).png"
+      "icon": "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypt (1).png",
+      "banners": [
+        "https://raw.githubusercontent.com/fs-albus/fourdy/main/cdn/appicons/vs20egypt (1).png"
+      ]
     }
   ]
 }
